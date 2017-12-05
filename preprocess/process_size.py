@@ -1,6 +1,6 @@
 # coding:utf8
 '''
-Author : Cindy
+Author : minning
 Date : 2017/10/13
 代码目的：对图片进行重命名
           缩放到标准尺寸（320*240）

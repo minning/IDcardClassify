@@ -1,6 +1,6 @@
 # coding:utf-8
 '''
-    author : Cindy
+    author : minning
     Date : 2017/11/7
     代码目的：读取数据、特征
     

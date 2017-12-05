@@ -1,6 +1,6 @@
 # coding:utf-8
 '''
-    author : Cindy
+    author : minning
     Date : 2017/11/2
     代码目的：主函数 建立模型，可选取特定的特征、分类器进行训练。其中LAB的color特征和SIFT的BOW法构成的纹理特征，拼接效果较好。
     

@@ -1,6 +1,6 @@
 # coding:utf-8
 '''
-    author : Cindy
+    author : minning
     Date : 2017/11/7
     代码目的：采用的12种分类器，同时进行，选取最佳效果，评判标准是PRF（精确率precision，召回率recall，F值，数值都是越大越好）。
     

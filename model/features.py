@@ -1,6 +1,6 @@
 # coding:utf-8
 '''
-    author : Cindy
+    author : minning
     Date : 2017/11/7
     代码目的：模型的特征提取，其中包括颜色、纹理、频谱特征
     
